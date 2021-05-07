@@ -1,5 +1,8 @@
-import setuptools
- 
+from glob import glob
+from os.path import basename, splitext
+
+from setuptools import setup, find_packages
+
 setup(
     name="words_on_pdf",
     version="1.0",
