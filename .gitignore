@@ -1,5 +1,6 @@
 *_dict.txt
 pyrightconfig.json
+*.pdf
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
